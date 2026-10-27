@@ -1,4 +1,4 @@
 console.log ("oi")
-let nome = "carlos"
+let nome = "Carlos"
 
-console.log("olá" + nome)
+console.log ("Olá, como vai " + nome);
